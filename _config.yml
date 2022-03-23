@@ -24,6 +24,7 @@ avatar_image: /img/my_profile_picture.jpg
 # Contact links
 linkedln: "https://www.linkedin.com/in/kanygarcia/#" # Add your linkedln handle
 github: "https://github.com/kanygarcia/#"  # Add your github handle
+tableau: "https://public.tableau.com/app/profile/kanygarcia/#"  # Add your tableau handle
 
 paginate: 6
 paginate_path: "/page/:num"
