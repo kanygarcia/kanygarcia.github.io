@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kany Garcia
-description: "Hello there! I'm Kany, I'm a Data Analyst and this is my portfolio, where you can find personal projects I've recently undertaken, with a strong emphasis on business impact. If you want to find more about my other projects or professional experience, please visit my Tableau & LinkedIn pages by using the links below!"
+description: "Hello there! I'm Kany and I'm a Data Analyst. My portfolio focuses on projects I've recently undertaken, with a strong emphasis on business impact. If you want to find more about my other projects or professional experience, please visit my Tableau & LinkedIn pages by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
