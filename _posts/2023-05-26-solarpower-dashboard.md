@@ -9,8 +9,9 @@ This is a Tableau Dashboard that shows the solar photovoltaic energy generated i
 
 Each sun ray displays the energy power of a single region in a year. Explore the region differences applying the filters and compare the top and bottom performers. 
 
-<p align="center">
+
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/ThesunnySpaininGWh/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1213' height = '685'></iframe>
+<p align="center">
 
 
 
