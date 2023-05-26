@@ -10,7 +10,6 @@ This is a Tableau Dashboard that shows the solar photovoltaic energy generated i
 Explore the region differences by applying the filter and compare who is the top and bottom performer in the years you select.
 
 
-<pre>
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/ThesunnySpaininGWh/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
 <p align="center">
 
