@@ -8,7 +8,7 @@ tags: [Tableau, Data Viz]
 This is a Tableau Dashboard that shows the solar photovoltaic energy generated in Spain from 2016 to 2022 by region.
 
 
-<align=center iframe seamless frameborder="0" src="https://public.tableau.com/views/ThesunnySpaininGWh/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" width = '1213' height = '685'></iframe>
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/ThesunnySpaininGWh/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no" align=center  width = '1213' height = '685'></iframe>
 
 
 
