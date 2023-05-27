@@ -15,7 +15,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: <span style="color:#48C9B0"> Data & Analytics Portfolio </span> 
+subtitle: <p> <span style="color:#48C9B0"> Data & Analytics Portfolio </span> <p>
 location: "Valencia, Spain"
 tableau: "https://public.tableau.com/app/profile/kanygarcia/#"  # Add your tableau handle
 # resume_url: /docs/resume 2022.docx
