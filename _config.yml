@@ -9,13 +9,13 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Kany Garcia
-description: "My portfolio focuses on interesting projects I have recently undertaken, with a strong emphasis on business impact. To find more, please visit my Github & LinkedIn pages by using the link below."
+description: "My portfolio focuses on interesting projects I have recently undertaken, with a strong emphasis on business impact. To find more, please visit my Github & LinkedIn pages by using the links below."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # About Section
-subtitle: Data & Analytics <span style="color:##82E0AA"> Portfolio </span>
+subtitle: Data & Analytics <span style="color:##82e0aa"> Portfolio </span>
 location: "Valencia, Spain"
 tableau: "https://public.tableau.com/app/profile/kanygarcia/#"  # Add your tableau handle
 # resume_url: /docs/resume 2022.docx
