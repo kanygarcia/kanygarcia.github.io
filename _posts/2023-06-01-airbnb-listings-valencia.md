@@ -1,0 +1,10 @@
+---
+layout: post
+title: Valencia City Listings in Aribnb
+image: "/posts/valencia-airbnb-listings"
+tags: [Tableau, Data Viz, Airbnb]
+---
+
+Tableau Dashboard 
+
+<iframe seamless frameborder="0" src="[https://public.tableau.com/views/ThesunnySpaininGWh/Dashboard1?](https://public.tableau.com/views/Book3_16839393132390/Dashboard1?):embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
