@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solar power generated in Spain using Tableau
-image: "/posts/tableau-solarpower-dashboard-image.png"
+image: "/posts/tableau-solar-photovoltaic-spain.png"
 tags: [Tableau, Data Viz]
 ---
 
