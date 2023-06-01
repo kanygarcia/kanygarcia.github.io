@@ -2,7 +2,7 @@
 layout: post
 title: Solar power generated in Spain using Tableau
 image: "/posts/tableau-solar-photovoltaic-spain.png"
-tags: [Tableau, Data Viz]
+tags: [Tableau, Data Viz, solar photovoltaic]
 ---
 
 This is a Tableau Dashboard that shows the solar photovoltaic energy generated in Spain from 2016 to 2022 by region. Each sun ray displays the energy power of a single region in a year. 
