@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Valencia city listings in Aribnb
-image: "/posts/valencia-airbnb-listings"
+image: "/posts/valencia-airbnb-listings.png"
 tags: [Tableau, Data Viz, Airbnb]
 ---
 
